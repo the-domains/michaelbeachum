@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: description under post details
-datePublished: '2016-02-15T15:10:56.834Z'
-dateModified: '2016-02-15T15:08:56.536Z'
+datePublished: '2016-02-15T15:31:39.239Z'
+dateModified: '2016-02-15T15:31:18.745Z'
 title: Creative Fruits (post details; feature selected)
 author: []
 authors: []
