@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: description under post details
-datePublished: '2016-02-15T15:31:39.239Z'
-dateModified: '2016-02-15T15:31:18.745Z'
+datePublished: '2016-02-15T16:13:35.919Z'
+dateModified: '2016-02-15T16:13:33.303Z'
 title: Creative Fruits (post details; feature selected)
 author: []
+sourcePath: _posts/2016-02-15-creative-fruits-post-details-feature-selected.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-creative-fruits-post-details-feature-selected.md
-published: true
 url: creative-fruits-post-details-feature-selected/index.html
 _type: Article
 
