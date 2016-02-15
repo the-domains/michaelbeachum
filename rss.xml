@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[michaelbeachum]]></title>
         <description><![CDATA[michaelbeachum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michaelbeachum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 15:11:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 15:11:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michaelbeachum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creative Fruits (post details; feature selected)]]></title>
             <description><![CDATA[<article><h1>Creative Fruits (post details; feature selected)</h1><p>Creative Fruits 2 (added after upload)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf0070e043fa1ec2b3bb71d519f1db2a422ee154.jpg"></article>]]></description>
-            <link>undefinedcreative-fruits-post-details-feature-selected/index.html</link>
+            <link>https://thegrid.ai/michaelbeachum/creative-fruits-post-details-feature-selected/index.html</link>
             <guid isPermaLink="false">8c3d5dca-7933-4508-93e4-8730ce14bf3e</guid>
+            <pubDate>Mon, 15 Feb 2016 15:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Is Me 2 (post details)]]></title>
+            <description><![CDATA[<article><h1>Who Is Me 2 (post details)</h1><p>This is above the photo; added after the pic was uploaded</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d12eea3f2dbc2672d32003b924e49460e7373390.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michaelbeachum/who-is-me-2-post-details/index.html</link>
+            <guid isPermaLink="false">672e215e-e0a0-41cd-ac33-14757b8c2177</guid>
             <pubDate>Mon, 15 Feb 2016 15:10:56 GMT</pubDate>
         </item>
     </channel>
