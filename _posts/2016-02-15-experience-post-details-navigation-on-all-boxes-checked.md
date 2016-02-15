@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: description section
-datePublished: '2016-02-15T15:10:56.749Z'
-dateModified: '2016-02-15T15:10:41.191Z'
+datePublished: '2016-02-15T15:49:38.500Z'
+dateModified: '2016-02-15T15:49:36.511Z'
 title: Experience (post details; navigation on; all boxes checked)
 author: []
+sourcePath: _posts/2016-02-15-experience-post-details-navigation-on-all-boxes-checked.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-experience-post-details-navigation-on-all-boxes-checked.md
-published: true
 url: experience-post-details-navigation-on-all-boxes-checked/index.html
 _type: Article
 
