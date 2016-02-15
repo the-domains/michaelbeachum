@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - steve
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7M8GfYMqfWM'
 title: 'Steve Vai Lesson: The Crossroads "Intimidation Lick"'
-datePublished: '2016-02-15T15:26:57.234Z'
-dateModified: '2016-02-15T15:26:00.354Z'
+datePublished: '2016-02-15T15:27:17.271Z'
+dateModified: '2016-02-15T15:27:13.714Z'
 sourcePath: _posts/2016-02-15-steve-vai-lesson-the-crossroads-intimidation-lick.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
