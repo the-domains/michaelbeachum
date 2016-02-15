@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: 'Jump Solo. For the mp3 of the complete back track, let me know.'
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JHxGY7vDepo'
 title: Jump BackTrack Solo Video
-datePublished: '2016-02-15T15:30:58.216Z'
-dateModified: '2016-02-15T15:29:42.883Z'
+datePublished: '2016-02-15T15:31:28.161Z'
+dateModified: '2016-02-15T15:31:11.761Z'
 sourcePath: _posts/2016-02-15-jump-backtrack-solo-video.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
