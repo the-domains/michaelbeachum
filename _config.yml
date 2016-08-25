@@ -1,7 +1,18 @@
+layout_spectrum: 0.3812406493816525
+typography_spectrum: 0.7261545287910849
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.5986290781293064
+  lightness: 0.2742693133186549
+  saturation: 0.09907613974064589
+  rhythmicContrast: 0.4034377848729491
 name: michael beachum
 favicon: null
-layout_spectrum: 0.33266
-typography_spectrum: 0.61229
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0c0a0d'
-    - '#342d27'
-    - '#958671'
-    - '#4d1514'
-    - '#51483f'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.125
-  rhythmicContrast: 0.75
 purpose: []
